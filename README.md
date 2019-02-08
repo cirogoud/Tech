@@ -1,2 +1,3 @@
-# Tech
-Blok Tech
+# Blok Tech
+Opdrachten van Blok Tech
+

@@ -1,6 +1,6 @@
 # Notes
 
-*You can write notes for each chapter here*.
+Samenvatting per hoofdstuk
 
 ## Chapter 1
 
